@@ -1,0 +1,6 @@
+**__pycache__**
+.env
+*.crt
+*.pem
+response*.json
+venv
